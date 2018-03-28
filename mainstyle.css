@@ -1,0 +1,35 @@
+
+.navbar{
+	
+	background-color:#17a531;
+	padding:0;
+	position:fix top;
+	
+	
+}
+
+.nav-link
+{
+	
+	color: #ffffff;
+	font-family: Verdana, Geneva, sans-serif ;
+	font-size:15px;
+	padding:5px;
+	margin:5px;
+	
+}
+.nav-item
+{
+	text-align:center;
+	
+}
+
+a:hover
+{
+		color:#1a1b1c;
+	
+}
+
+
+
+

@@ -1,0 +1,66 @@
+body
+{
+		background-color:#262728;
+	
+}
+
+.personal-information
+{
+	
+	margin-left:40px;
+	margin-right:40px;
+	
+	
+}
+.background{
+	
+	background-color:#262728;
+	margin-left:0px;
+	margin-top:0;
+	margin-right:0px;
+	padding-bottom:50px;
+	/*border-radius: 15px;*/
+	
+	
+}
+.table-stripped{
+	
+	text-align:left;
+	
+	background-color:#ffffff;
+	
+	
+	
+	
+	
+	
+}
+table{
+	border-radius: 15px;
+	
+	
+}
+th
+{
+	text-align:center;
+	background-color:#17a531 ;
+	color:#ffffff;
+	font-size:25px;
+
+}
+
+h1
+	{
+	color:#ffffff;
+	padding-top:30px;
+	padding-bottom:40px;
+	
+	}
+	
+td{
+	
+	text-align:center;
+	
+}
+
+
